@@ -1,4 +1,4 @@
-# Amazon QuickSight Data Analysis Project
+# Visualize Data in Amazon RDS for SQL Server Project
 
 Welcome to my Amazon QuickSight Data Analysis Project! This project is part of my portfolio as I apply for Business Analyst roles. It showcases my ability to create and visualize data using Amazon Relational Database Service (Amazon RDS) and Amazon QuickSight. Below, you'll find a detailed overview of the project, which demonstrates my skills in data analysis, visualization, and cloud-based business intelligence.
 
